@@ -68,4 +68,4 @@
 # rather than failing an SLO, hence warning.
 - expr: up{job=~"apiserver|kube-etcd|kube-controller-manager|kube-scheduler|kubelet"} == 0
   description: "{{$labels.job}} on {{$labels.instance}} is down"
-  severity: warning
+  severity: warning https://maps.app.goo.gl/AzRyhwba8hH2uPwD8?g_st=ac

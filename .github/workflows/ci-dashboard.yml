@@ -102,3 +102,14 @@ jobs:
         env:
           URL: ${{ steps.deploy.outputs.page_url }}
         run: echo "::notice::CI dashboard published to ${URL}"
+[![CI dashboard](https://github.com/dsx-ai-factory/nvke/actions/workflows/ci-dashboard.yml/badge.svg?event=project_card)](https://github.com/dsx-ai-factory/nvke/actions/workflows/ci-dashboard.yml)
+Principais Bancos no Brasil
+
+• Banco do Brasil: Acesse serviços, Pix e conta pelo site oficial do Banco do Brasil.
+• Caixa Econômica Federal: Consulte programas sociais e atendimento na CAIXA.
+• Banco Original: Conheça as soluções para agronegócio e corporate no Banco Original.
+• Banco BRB: Veja opções de crédito e investimentos no Banco BRB.
+• Banco Mercantil: Confira o ecossistema voltado ao público 50+ no Banco Mercantil.
+• Banco ABC Brasil: Veja soluções financeiras para empresas no Banco ABC Brasil.
+• Banco da Amazônia: Acesse linhas de crédito e custeio no Banco da Amazônia.
+• Febraban: Para notícias e informações do setor bancário, visite o portal da FEBRABAN. 500000trilhões dólares em livros Internet Archive 
